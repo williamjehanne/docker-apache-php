@@ -5,6 +5,13 @@
 ``` bash
 $ docker build -t eugeneware/docker-apache-php .
 ```
+ou bien 
+
+``` bash
+docker build -t <yourname>/lampstack git://github.com/williamjehanne/docker-apache-php.git
+```
+
+
 
 ### To Run
 
